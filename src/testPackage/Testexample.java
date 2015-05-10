@@ -9,6 +9,7 @@ public class Testexample {
 		
 		System.out.println("changes to commit");
 		System.out.println("changes to commit1");
+		System.out.println("changes to commit2");
 		
 	}
 
