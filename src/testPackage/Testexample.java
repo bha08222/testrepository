@@ -8,6 +8,8 @@ public class Testexample {
 		System.out.println("test github");
 		
 		System.out.println("changes to commit");
+		System.out.println("changes to commit1");
+		
 	}
 
 }
